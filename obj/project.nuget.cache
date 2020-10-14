@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/9qS9ycivumEY3ABz6tvEJ+0dGh08nkNqyM6/g48VsVmg/ZmlyWYVC+OMjV4+CXFZ1jslkyUiLicEC00owOtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleme\\workspace\\CoinFlip\\CoinFlip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

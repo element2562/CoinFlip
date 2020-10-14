@@ -1,0 +1,13 @@
+C:\Users\eleme\workspace\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.exe
+C:\Users\eleme\workspace\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.deps.json
+C:\Users\eleme\workspace\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.json
+C:\Users\eleme\workspace\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.runtimeconfig.dev.json
+C:\Users\eleme\workspace\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\eleme\workspace\CoinFlip\bin\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csprojAssemblyReference.cache
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfoInputs.cache
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.AssemblyInfo.cs
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.dll
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.pdb
+C:\Users\eleme\workspace\CoinFlip\obj\Debug\netcoreapp3.1\CoinFlip.genruntimeconfig.cache
